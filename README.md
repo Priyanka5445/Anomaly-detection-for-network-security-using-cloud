@@ -24,3 +24,4 @@ Brute Force) using AWS and Azure cloud infrastructure.
 ## How to Run
 1. Install requirements: pip install -r Requirements.txt
 2. Run the server: runserver.bat
+
