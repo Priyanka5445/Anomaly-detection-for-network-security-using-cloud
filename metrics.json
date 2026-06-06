@@ -1,0 +1,29 @@
+{
+    "SVM": {
+        "accuracy": 66.67,
+        "precision": 66.67,
+        "recall": 66.67,
+        "f1": 66.67,
+        "roc_auc": 0,
+        "predict_time_ms": 0.0,
+        "memory_kb": 162748.0
+    },
+    "KNN": {
+        "accuracy": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.5,
+        "predict_time_ms": 0.0,
+        "memory_kb": 591408.0
+    },
+    "HYBRID": {
+        "accuracy": 66.67,
+        "precision": 66.67,
+        "recall": 66.67,
+        "f1": 66.67,
+        "roc_auc": 0,
+        "predict_time_ms": 131.2962,
+        "memory_kb": 620784.0
+    }
+}
